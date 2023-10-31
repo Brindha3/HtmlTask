@@ -1,0 +1,82 @@
+
+.form-control{
+    background-color: black;
+    width:550px; 
+    margin:150px;
+    border: 2px solid black;;
+    border-radius: 5px;
+    position: relative; 
+    top:-60px;
+    left: 400px;
+}
+
+
+.one{
+    background-color: black;
+    width:300px;
+    height:500px;
+    margin:10px;
+    border: 1px solid black;;
+    border-radius: 15px;
+    position: relative; 
+    top:-250px;
+    left: 100px;
+    }
+    .two{
+        background-color: black;
+        width:180px;
+        height: 120px; 
+        margin:10px;
+        border: 1px solid black;
+        border-radius: 15px;
+        position: absolute; 
+        top:250px;
+        left:500px;
+     }
+
+        .three{
+        background-color: black;
+        width:180px;
+        height: 120px; 
+        margin:10px;
+        border: 1px solid black;
+        border-radius: 15px;
+        position: absolute; 
+        top:250px;
+        left:730px;
+        }
+
+        .four{
+        background-color: black;
+        width:180px;
+        height: 120px;
+        margin:10px;
+        border: 1px solid black;
+        border-radius: 15px;
+        position: absolute; 
+        top:250px;
+        left:960px;
+                }   
+       
+        #five{
+
+            background-color: black;
+            border: 1px solid black;
+            border-radius: 12px;
+            position: absolute;  
+            top:460px;
+            left:500px; 
+            width: 650px;
+        }    
+    body{
+        background-color: grey;
+        height: 50px;
+        width: 100%;
+
+    }                
+
+    #name{
+        width: 600%;
+        height: 80%;
+        font-size: 40px;
+}
